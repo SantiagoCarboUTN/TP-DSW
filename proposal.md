@@ -6,8 +6,7 @@
 * 53471 - Cotorruelo, Valentín
 * 53465- Carbó, Santiago
 ### Repositorios
-* [frontend app](https://github.com/FelipeMuntaabski/Frontend)
-* [backend app](https://github.com/FelipeMuntaabski/backtend)
+* [Link Monorepo](https://github.com/SantiagoCarboUTN/fullstack-repo-dsw)
 
 
 ## Tema
